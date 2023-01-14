@@ -1,4 +1,4 @@
-# Math 201. Statistical 1. 
+# Math 201. Statistical I. 
 
 [Syllabus,](Syllabus.pdf) [Data](data/data.html)
 
