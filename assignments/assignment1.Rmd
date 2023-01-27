@@ -1,52 +1,80 @@
 ---
 output: # rmarkdown::github_document
-  html_document:
   pdf_document: default
+  html_document:
   word_document: default
 title: "Assignment 1.  Sample vs. Population Approach" 
 ---
 
-1. Form two hypothesis that are possible to test using the population approach. Identify the population data and explain why the population data may already exists or can be easily gathered. 
+1. Form two hypotheses that are possible to test using the population approach. Identify the population data and explain why the population data may easily/practically be obtained. 
 
-- For example, a hypothesis could be: *The majority of the students in our class like Statistics* In this hypothesis, the population is all the students in our class (about 35 students). The researcher can make a survey to ask all 35 the students in the class if they like Statistics (Yes or No hypothesis).  From this data, the researcher can count to see if the majority like Statistics. There is no need to go with the sample approach in this case. 
+- For example, a hypothesis could be: *The majority of the students in our class like Statistics* In this hypothesis, the population is all the students in our class (about 35 students). The researcher can easily make a survey to ask all 35 the students in the class if they like Statistics (Yes/No Question).  From this data, the researcher can count to see if the majority like Statistics. There is no need to go with the sample approach in this case. 
 
-2. Form two hypothesis that are not very possible to test using the population approach. Identify the population data and explain why the population data may not already exists nor can be easily gathered. 
+2. Form two hypotheses that are not very possible to test using the population approach. Identify the population data and explain why the population data may not easily/practically be obtained.
 
-- An example of such hypothesis could be: *The majority of human like Statistics* The population in this hypothesis is ALL people living (about 8 billions people). It would not be easy to gather the data of 8 billions people.  The researcher should do a survey on a small portion of 8 billions people and use statistics technique to test this hypothesis. 
+- An example of such hypothesis could be: *The majority of human like Statistics* The population in this hypothesis is ALL people living (about 8 billions people). It would not be easy to gather/survey the data of 8 billions people. *The population data is too big to be easily/practically obtained.* The researcher should do a survey on a small portion (sample) of 8 billions people and use statistics technique to test this hypothesis. 
 
-- Another example: *Bryant students who like physical exercises have higher GPA than those who don't like exercises * The population in this hypothesis is ALL Bryant students. It would not be practical to ask EVERY single Bryant students about how they like their exercises and GPA.  It would be more practical to ask about 50-100 Bryant students for this information then use statistics technique to test the hypothesis. 
+- Another example: *Bryant students who like physical exercises sleep longer than those who don't like exercises * The population in this hypothesis is ALL Bryant students. It would not be practical to ask EVERY single Bryant students about how they like their exercises and their sleeping hours. *The population data is too big to be easily/practically obtained.*  It would be more practical to go with the sample approach and ask about 50-100 Bryant students for this information then use statistics technique to test the hypothesis. 
 
 
 ---
 
-Work in a group of no more than three. Write down your answers here and show the instructor in class for credits. 
+Work in a group of no more than three. Write down your answers here and show the instructor in class for credits. All members of the group has to write down the group's answers. 
 
 1. 
 
 - Hypothesis 1: 
 
-  - Population
-  
-  
-  
-  - Explain why the population data may already exists or can be easily gathered. 
-  
+  - Population:
+  \
+  \
+  \
+  \
+  \
+  - Explain why the population data may easily/practically be obtained.
+  \
+  \
+  \
+  \
+  \
 - Hypothesis 2: 
 
-  - Population
-  
-  - Explain why the population data may already exists or can be easily gathered. 
-  
+  - Population:
+  \
+  \
+  \
+  \
+  \
+  - Explain why the population data may easily/practically be obtained. 
+  \
+  \
+  \
+  \
+  \
+
 2. 
 
 - Hypothesis 1: 
 
-  - Population
-  
-  - Explain why the population data may not already exists nor can be easily gathered. 
-  
+  - Population:
+  \
+  \
+  \
+  \
+  \
+  - Explain why the population data may not easily/practically be obtained.
+  \
+  \
+  \
+  \
+  \
+ 
 - Hypothesis 2: 
 
   - Population
-  
-  - Explain why the population data may not already exists nor can be easily gathered. 
+ \
+  \
+  \
+  \
+  \ 
+  - Explain why the population data may not easily/practically be obtained.
