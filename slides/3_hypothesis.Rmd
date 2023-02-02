@@ -1,0 +1,188 @@
+
+---
+title: "Statistical Hypotheses Test"
+
+
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+   
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+```
+
+
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+```{r xaringan-fit-screen, echo=FALSE}
+xaringanExtra::use_fit_screen()
+```
+
+
+---
+# Step to test a hypothesis
+
+Step 1: Identify the types of hypothesis
+
+Step 2: Set up the Null and Alternative Hypothesis
+
+Step 3: Collect Data
+
+Step 4: Test the hypothesis using computers
+
+---
+# Types of Hypothesis
+
+There are many types of hypothesis.  For example:
+
+- Compare "something" to a number:
+
+  - One average current Bryant students study longer than 8 hours a week.
+
+- Compare two things (No number appears on the hypothesis)
+
+  - One average current Bryant students study longer hours than Harvard students
+  
+- Relationship between "two things"
+
+  - People who are bigger perfectionists also tend to have more anxiety.”
+  
+  - People who has more working experience earns higher income. 
+  
+
+And many more... 
+
+---
+class: inverse, middle, center
+
+# "One - Sample" Hypotheses
+
+
+---
+# "One - Sample" Hypotheses
+
+- Compare "something" to a number
+
+Hypothesis: Current Bryant students sleep longer than 8 hours
+
+
+---
+
+# "One - Sample" Hypotheses
+
+
+Hypothesis: People living in Smithfield drive less than 1.5 hour a day. 
+
+
+---
+
+# "One - Sample" Hypotheses
+
+
+Hypothesis: Current Bryant Students prefer watching football than basketball
+
+
+---
+class: inverse, middle, center
+# Statistics vs Parameters
+
+---
+
+# Statistics vs Parameters
+
+
+---
+class: inverse, middle, center
+# Null vs Alternative Hypothesis
+
+---
+# Null vs Alternative Hypothesis
+
+Null Hypothesis: No difference or relationship exists between two sets of data or variables being analyzed
+
+Alternative Hypothesis: There is "some" difference or relationship exists between two sets of data or variables being analyzed
+
+Alternative Hypothesis is what we want to prove/test.
+
+---
+class: inverse, middle, center
+# Example
+
+---
+# Example
+
+A medical trial is conducted to test whether or not a new medicine reduces cholesterol by 25%. State the null and alternative hypotheses.
+
+---
+# Example
+
+We want to test if college students take less than five years to graduate from college, on the average. The null and alternative hypotheses are:
+
+---
+# Example
+
+We want to test if it takes fewer than 45 minutes to teach a lesson plan. State the null and alternative hypotheses.
+
+---
+
+# Example
+
+In an issue of U. S. News and World Report, an article on school standards stated that about half of all students in France, Germany, and Israel take advanced placement exams and a third pass. The same article stated that 6.6% of U.S. students take advanced placement exams and 4.4% pass. Test if the percentage of U.S. students who take advanced placement exams is more than 6.6%. State the null and alternative hypotheses.
+
+---
+# Example
+
+On a state driver’s test, about 40% pass the test on the first try. We want to test if more than 40% pass on the first try.
+
+---
+# Example
+
+State the null hypothesis and the alternative hypothesis in terms of the appropriate parameter.
+
+- Europeans have a mean paid vacation each year of six weeks.
+
+---
+# Example
+
+State the null hypothesis and the alternative hypothesis in terms of the appropriate parameter.
+
+- The mean number of cars a person owns in her lifetime is not more than ten.
+
+---
+# Example
+
+State the null hypothesis and the alternative hypothesis in terms of the appropriate parameter.
+
+- About half of Americans prefer to live away from cities, given the choice.
+
+---
+# Example
+
+State the null hypothesis and the alternative hypothesis in terms of the appropriate parameter.
+
+- The chance of developing breast cancer is under 11% for women.
+
+---
+# Example
+
+State the null hypothesis and the alternative hypothesis in terms of the appropriate parameter.
+
+- Private universities' mean tuition cost is more than $20,000 per year.
+
