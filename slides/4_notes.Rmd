@@ -44,3 +44,17 @@ xaringanExtra::use_fit_screen()
 P-value: The probability that "the data" exists if the null hypothesis is True
 
 ---
+# P-values in Research
+
+[Link 1](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1571&context=cmsp)
+
+[Link 2](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8ccdce22f030c7361465cf09d0cf6e71103f0dd5)
+
+[Link 3](https://www.sciencedirect.com/science/article/pii/S0140673605666305)
+
+[Link 4](https://www.jstor.org/stable/pdf/146346.pdf)
+
+
+
+
+---
