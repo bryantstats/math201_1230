@@ -52,6 +52,10 @@ Step 5: Input the data to Minitab: Only copy the column containing the necessary
 
 2. Submit the minitab project file. 
 
+3. Post a reply to the Canvas announcement that has the following
+
+-  Your hypothesis
+-  The p-value of the test and your conclusion of the test (Do the data support your hypothesis?)
 
 ---
 
