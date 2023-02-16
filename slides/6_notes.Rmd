@@ -1,0 +1,46 @@
+
+---
+title: "Type I, Type II erros and Significant Levels"
+
+
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+   
+
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+```
+
+
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
+
+```{r, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+```{r xaringan-fit-screen, echo=FALSE}
+xaringanExtra::use_fit_screen()
+```
+
+---
+# Example 1: 
+
+Suppose we want to test a hypothesis that exercises has positive affect on GPA. We collect data and find p-value = 0.125. Give the outcomes the test with significant level of .05, .02, and .01. 
+
+---
+# Example 2: 
+
+State in sentences Type 1 and Type 2 when test the hypothesis that drinking any amount of alcohol before driving increases crash risk among teen drivers.  
