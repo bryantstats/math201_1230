@@ -9,7 +9,7 @@ title: "Assignment 6. Type I, Type II erros and Significant Levels"
 Work individually. 
 
 
-1. Suppose we want to test a hypothesis ($H_1$) that exercises has positive affect on GPA. We collect data and find p-value = 0.125
+1. Suppose we want to test a hypothesis ($H_1$) that exercises has positive affect on GPA. We collect data and find p-value = .0125
 
 
 Give the outcomes the test with the following significant levels ($\alpha$)
