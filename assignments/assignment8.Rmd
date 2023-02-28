@@ -6,17 +6,17 @@ output: # rmarkdown::github_document
 title: "Assignment 8. Two-Sample Tests" 
 ---
 
-Work individually. Write down your answers.  
+Work individually. Put your answer on a Word document. Write the test conclusion and screenshots Minitab for the results of the tests. Submit to Canvas for credits. Screenshots Minitab for the results of the tests.
 
-[This data](student-mat.csv) were obtained in a survey of students math and portuguese language courses in secondary school. Assume that the data is a random sample of secondary school students.
+[This data](student-mat.csv) were obtained in a survey of students math and portuguese language courses in secondary school. Assume that the data is a random sample of secondary school students. Screenshots Minitab for the results of the tests.
 
-1. Test if there is a difference in number of studying hours (studytime) between male and female students in secondary school. Report the p-value and your conclusion. 
+1. Test if there is a difference in number of studying hours (studytime) between male and female students in secondary school. Report the p-value and your conclusion. Screenshots Minitab for the results of the tests.
 
-2. Test if female students study more hours than male students in secondary school. Report the p-value and your conclusion. 
+2. Test if female students study more hours than male students in secondary school. Report the p-value and your conclusion. Screenshots Minitab for the results of the tests.
 
-3. Test if the students who have access to Internet at home have a higher final grade than those who do not. Report the p-value and your conclusion. 
+3. Test if the students who have access to Internet at home have a higher final grade than those who do not. Report the p-value and your conclusion. Screenshots Minitab for the results of the tests.
 
-4. Form two hypotheses comparing two groups and test for them. Write your H1 hypotheses. Report the p-value and your conclusion. 
+4. Form two hypotheses comparing two groups and test for them. Write your H1 hypotheses. Report the p-value and your conclusion. Screenshots Minitab for the results of the tests.
 
 ---
 
