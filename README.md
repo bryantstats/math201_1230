@@ -12,4 +12,4 @@
 |5. One sample Poppulation Mean test| [Video](https://bryant.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1e669227-a839-4761-8ac3-afa9013c04da) |[Assignment 5](assignments/assignment5.html) | | 
 |6. Type 1 and Type 2 Errors| [Notes](slides/6_notes.pdf) |[Assignment 6](assignments/assignment6.pdf) | |
 |7. Mean Estimation and Confidence Intervals| [Notes](slides/7_notes.pdf) |[Assignment 7](assignments/assignment7.pdf)||
-|8. Two-Sample Tests| [Notes](slides/8_notes.pdf) |[Assignment 8](assignments/assignment8.html)||
+|8. Two-Sample Tests| [Notes](https://bryantu-my.sharepoint.com/:o:/r/personal/snguyen4_bryant_edu/Documents/Notebooks/test?d=w00e306887c95409eb21d236338987c8a&csf=1&web=1&e=8U3P7d) |[Assignment 8](assignments/assignment8.html)||
