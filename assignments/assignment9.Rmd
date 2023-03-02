@@ -6,7 +6,7 @@ output: # rmarkdown::github_document
 title: "Assignment 9. One-sample tests vs. Two-sample tests" 
 ---
 
-Work individually. Put your answer on a Word document. Screenshots Minitab for the results of the tests. 
+Work individually. Put your answer on a Word document. Screenshots Minitab for the results of the tests.
 
 1. Form three 1-sample hypotheses and three 2-sample hypotheses from **dataset 1**. Write your H1 hypotheses. Report p-value and your conclusion. 
 
