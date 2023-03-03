@@ -18,12 +18,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-## With Assigned Data
+## One-sample hypothesis
+
+- Form an one-sample hypothesis on the population of Bryant University's class 2026. For example: Class of 2026 study more than 10 hours studied per weekly. 
 
 
-
-
--------
-
-## With Survey Data
 
