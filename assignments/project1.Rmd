@@ -20,7 +20,9 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 ## One-sample hypothesis
 
-- Form an one-sample hypothesis on the population of Bryant University's class 2026. For example: Class of 2026 study more than 10 hours studied per weekly. 
+- Form an one-sample hypothesis (compare something with a number) on the population of Bryant University's class 2026. For example: Class of 2026 study more than 10 hours studied per weekly. 
+
+- 
 
 
 
