@@ -62,7 +62,9 @@ Use Qualtrics to design the survey.
 
 - [Sample Poster](sample_poster.pptx)
 
-**Step 9**. Submit the follows to Canvas.
+## 2. Submission
+
+Submit the follows to Canvas.
 
 - The Poster
 
@@ -72,13 +74,13 @@ Use Qualtrics to design the survey.
 
 The deadline for all submission is April 4. 
 
-## 2. Grading
+## 3. Grading
 
 - Eighty percent (80%) of the grade will be based on completion of the submission
 
 - Twenty percent (20%) of the grade will be based on the quality of the hypotheses and the result.  A result that is useful (for Bryant freshman) will be considered a quality result. 
 
-## 3. Resources
+## 4. Resources
 
 [Minitab](https://app.minitab.com/)
 
