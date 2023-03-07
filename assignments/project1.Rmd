@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 **Step 1**: Form your groups of no more than three members. 
 
-**Step 2**: Choose a variable/quantity about Bryant class of 26 of your interested. For example: The number of hours a freshman studied per week. 
+**Step 2**: Choose a variable/quantity about Bryant class of 2026 of your interested. For example: The number of hours a freshman studied per week. 
 
 **Step 3**: Form three hypotheses on the variable/quantity
 
