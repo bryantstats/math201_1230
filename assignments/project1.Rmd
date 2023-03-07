@@ -1,6 +1,6 @@
 
 ---
-title: "One-sample and Two-sample Test"
+title: "One-sample and Two-sample Tests"
 output:
   html_document:
     toc: yes
@@ -86,7 +86,7 @@ The deadline for all submission is April 4.
   
   - [40 Eye-Catching Research Poster Templates](https://templatelab.com/research-posters/)
 
-- Five percent extra credits will be given for group with all small p-values (smaller than or equal to 5%). 
+- Five percent extra credits will be given for groups obtaining all small p-values (smaller than or equal to 5%) and quality results. 
 
 ## 4. Resources
 
