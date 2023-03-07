@@ -80,6 +80,14 @@ The deadline for all submission is April 4.
 
 - Twenty percent (20%) of the grade will be based on the quality of the hypotheses and the result.  A result that is useful (for Bryant freshman) will be considered a quality result. 
 
+- Five percent extra credits will be given for groups using different poster style.  Some templates can be found at the link below. 
+
+  - [Scientific Poster PowerPoint Templates](https://www.posternerd.com/sciposters-templates?signs_redirect)
+  
+  - [40 Eye-Catching Research Poster Templates](https://templatelab.com/research-posters/)
+
+- Five percent extra credits will be given for group with all small p-values (smaller than or equal to 5%). 
+
 ## 4. Resources
 
 [Minitab](https://app.minitab.com/)
