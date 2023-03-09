@@ -1,0 +1,21 @@
+---
+output: # rmarkdown::github_document
+  html_document:
+  pdf_document: default
+  word_document: default
+title: "Assignment 10. Sample Spaces and Probability" 
+---
+
+Work individually. Put your answer on a Word document. 
+
+**Sample Spaces**
+
+1. Find the sample space for the gender of the children if a family has three children. Use
+B for boy and G for girl. 
+
+2. Find the sample space for rolling two dice.
+
+**Classical Probability**
+
+3. If a family has three children, find the probability that two of the three children are girls.
+
