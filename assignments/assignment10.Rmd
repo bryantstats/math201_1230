@@ -1,7 +1,7 @@
 ---
 output: # rmarkdown::github_document
-  html_document:
   pdf_document: default
+  html_document:
   word_document: default
 title: "Assignment 10. Sample Spaces and Probability" 
 ---
@@ -10,12 +10,46 @@ Work individually. Put your answer on a Word document.
 
 **Sample Spaces**
 
+*A sample space is the set of all possible outcomes. *
+
 1. Find the sample space for the gender of the children if a family has three children. Use
 B for boy and G for girl. 
 
 2. Find the sample space for rolling two dice.
 
+3. Find the sample space for drawing one card from an ordinary deck of cards.
+
 **Classical Probability**
 
-3. If a family has three children, find the probability that two of the three children are girls.
+4. If a family has three children, find the probability that 
 
+- two of the three children are girls.
+- At least one boy
+- At most two boy
+- All the children have the same sex
+
+5. **Drawing a card.** A card is drawn from an ordinary deck. Find these probabilities.
+
+- Getting a black 10 
+- Getting the 6 of clubs
+- Getting a 3 or a diamond
+- Getting a 3 or a 6
+
+6. **Rolling a Die.** If a die is rolled one time, find
+these probabilities
+
+- Getting a 2
+- Getting a number greater than 6 
+- Getting an odd number
+- Getting a 4 or an odd number
+- Getting a number less than 7
+- Getting a number greater than or equal to 3
+- Getting a number greater than 2 and an even number
+
+7. **Rolling Two Dice**. If two dice are rolled one time, find
+the probability of getting these results.
+
+- A sum of 9
+- Doubles
+- A sum greater than or equal to 10
+- A sum less than 10
